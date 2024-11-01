@@ -1,0 +1,239 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-13 08:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Base ID
+#: includes/class-sponsor-widget.php:29 includes/class-sponsor-cpt.php:17 
+#: includes/class-sponsor-cpt.php:18
+msgid "Sponsor"
+msgstr ""
+
+#: includes/class-sponsor-widget.php:30
+msgid "Visualizzazione sponsor"
+msgstr ""
+
+#: includes/class-sponsor-widget.php:86
+msgid "No banner found."
+msgstr ""
+
+#: includes/class-sponsor-meta.php:27
+msgid "Dati Sponsor"
+msgstr ""
+
+#: includes/class-sponsor-meta.php:40
+msgid "Graphic Banner / Immagine"
+msgstr ""
+
+#: includes/class-sponsor-meta.php:43
+msgid ""
+"<a href=\"http://diginetwork.biz\" target=\"_blank\">CLICCA QUI</a> per un "
+"aiuto sui formati banners "
+msgstr ""
+
+#: includes/class-sponsor-meta.php:47
+msgid "Web Link"
+msgstr ""
+
+#: includes/class-sponsor-meta.php:53
+msgid "Larghezza"
+msgstr ""
+
+#: includes/class-sponsor-meta.php:56
+msgid "Inserisci larghezza del banner in pixel"
+msgstr ""
+
+#: includes/class-sponsor-meta.php:64
+msgid "Altezza"
+msgstr ""
+
+#: includes/class-sponsor-meta.php:67
+msgid "Inserisci altezza del banner in pixel"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:15
+msgctxt "Post Type General Name"
+msgid "Sponsor"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:16
+msgctxt "Post Type Singular Name"
+msgid "Sponsor"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:19
+msgid "Archivio Sponsor"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:20 includes/class-sponsor-cpt.php:81
+msgid "Superiore:"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:21
+msgid "Tutti gli Sponsor"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:22
+msgid "Aggiungi nuovo Sponsor"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:23
+msgid "Aggiungi nuovo"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:24
+msgid "Nuovo"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:25 includes/class-sponsor-cpt.php:84
+msgid "Modifica"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:26 includes/class-sponsor-cpt.php:85
+msgid "Aggiorna"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:27 includes/class-sponsor-cpt.php:86
+msgid "Mostra"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:28 includes/class-sponsor-cpt.php:91
+msgid "Cerca"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:29
+msgid "Non trovato"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:30
+msgid "Non trovato nel cestino"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:31
+msgid "Immagine principale"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:32
+msgid "Imposta immagine principale"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:33
+msgid "Rimuovi immagine principale"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:34
+msgid "Usa come immagine principale"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:35
+msgid "Inserisci"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:36
+msgid "Carica"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:37 includes/class-sponsor-cpt.php:94
+msgid "Lista"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:38 includes/class-sponsor-cpt.php:95
+msgid "Scorri lista"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:39
+msgid "Filtra"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:48
+msgid "sponsor"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:49
+msgid "Gestione Sponsor"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:76
+msgctxt "Taxonomy General Name"
+msgid "Categorie"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:77
+msgctxt "Taxonomy Singular Name"
+msgid "Categoria"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:78
+msgid "Categorie"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:79
+msgid "Tutte le categorie"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:80
+msgid "Superiore"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:82
+msgid "Nuova"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:83
+msgid "Aggiungi"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:87
+msgid "Separa categorie con la virgola"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:88
+msgid "Aggiungi o rimuovi categorie"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:89
+msgid ""
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:90
+msgid "Popolari"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:92
+msgid "Non trovata"
+msgstr ""
+
+#: includes/class-sponsor-cpt.php:93
+msgid "Nessuna categoria"
+msgstr ""
+
+#. Name of the plugin
+msgid "Sponsor Banners"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage banners for personal blog and web sites."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://diginetwork.biz/wp-plugins/sponsor"
+msgstr ""
+
+#. Author of the plugin
+msgid "Marco Brughi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://marcobrughi.com"
+msgstr ""
